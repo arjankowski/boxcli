@@ -47,22 +47,22 @@
 		"p-event": "^2.3.1"
 	},
 	"devDependencies": {
-		"@oclif/dev-cli": "^1.19.5",
-		"@oclif/test": "^1.1.0",
-		"chai": "^4.1.2",
-		"eslint": "^5.3.0",
-		"eslint-plugin-node": "^7.0.1",
-		"eslint-plugin-promise": "^3.8.0",
-		"eslint-plugin-unicorn": "^5.0.0",
-		"jsonwebtoken": "^8.3.0",
-		"leche": "^2.2.3",
-		"mocha": "^5.2.0",
-		"mockery": "^2.1.0",
-		"nock": "^10.0.0",
-		"nyc": "^12.0.2",
-		"pkg": "^5.5.2",
-		"sinon": "^6.1.5",
-		"standard-version": "^9.3.2"
+		"@oclif/dev-cli": "1.19.5",
+		"@oclif/test": "1.1.0",
+		"chai": "4.1.2",
+		"eslint": "5.3.0",
+		"eslint-plugin-node": "7.0.1",
+		"eslint-plugin-promise": "3.8.0",
+		"eslint-plugin-unicorn": "5.0.0",
+		"jsonwebtoken": "8.3.0",
+		"leche": "2.2.3",
+		"mocha": "5.2.0",
+		"mockery": "2.1.0",
+		"nock": "10.0.0",
+		"nyc": "12.0.2",
+		"pkg": "5.5.2",
+		"sinon": "6.1.5",
+		"standard-version": "9.3.2"
 	},
 	"engines": {
 		"node": ">=12.0.0"
